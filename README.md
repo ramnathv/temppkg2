@@ -5,6 +5,8 @@
 
 <!-- badges: start -->
 
+[![Travis build
+status](https://travis-ci.org/ramnathv/temppkg2.svg?branch=master)](https://travis-ci.org/ramnathv/temppkg2)
 <!-- badges: end -->
 
 The goal of temppkg2 is to …
